@@ -19,7 +19,7 @@ _Добавь на сайт следующую информацию::_
 Не забудь использовать такие свойства как `display`, `margin`, `padding`, `width`, `height` и другие.
 
 
-![screenshot](readme-asset/example.jpg).
+![screenshot](readme-asset/example.gif).
 
 
 _И наконец, не забудь сделать "Pull request" своего проекта прежде, чем приступать к следующему заданию._
